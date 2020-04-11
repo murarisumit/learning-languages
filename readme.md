@@ -1,7 +1,7 @@
 
 
 
-### Phrases coming across while learning Spanish.
+## Phrases
 
 
 #### Shopping
