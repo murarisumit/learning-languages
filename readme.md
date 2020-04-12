@@ -1,16 +1,24 @@
+---
+
 # English
 
 Some english links
 
+---
+
 # Spanish
+
+## Grammar
 
 ### Verbs
 
-* [Gustar](verbs/gustar.md)
+* [Gustar](spanish/grammar/verbs/gustar.md)
 
 
-### Phrases
+## Common Phrases
 
 #### Shopping
 
 * Qué precio tiene: how much price
+
+---
