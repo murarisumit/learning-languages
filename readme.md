@@ -1,4 +1,8 @@
 
+## Verbs
+
+* Gustar : [verbs/gustar.md](verbs/gustar.md)
+* Gustar : verbs/gustar.md
 
 
 ## Phrases
