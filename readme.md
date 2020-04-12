@@ -2,8 +2,6 @@
 
 # English
 
-Some english links
-
 ---
 
 # Spanish
