@@ -1,12 +1,15 @@
+# English
 
-## Verbs
+Some english links
+
+# Spanish
+
+### Verbs
 
 * [Gustar](verbs/gustar.md)
-* 
 
 
-## Phrases
-
+### Phrases
 
 #### Shopping
 
