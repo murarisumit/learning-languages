@@ -1,3 +1,4 @@
+
 > Have made notes from this post: [https://www.fluentu.com/blog/spanish/how-to-use-gustar](https://web.archive.org/save/https://www.fluentu.com/blog/spanish/how-to-use-gustar/)(web archive link)
 
 ## How to Use Gustar Correctly in Spanish
